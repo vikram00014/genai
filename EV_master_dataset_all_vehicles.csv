@@ -1,0 +1,176 @@
+No.,Vehicle Model,Segment,Mass (kg),Top Speed (km/h),Peak Torque (Nm),Target Gradeability (%),Source,Powertrain Type,Gearbox / Transmission
+1,Citroen Ami,Microcar,485,45,40,10,Master Real-World Database,FWD (Single Motor),Single-Speed Reduction Gearbox
+2,Renault Twizy,Microcar,450,80,57,12,Master Real-World Database,FWD (Single Motor),Single-Speed Reduction Gearbox
+3,Fiat Topolino,Microcar,450,45,44,10,Master Real-World Database,FWD (Single Motor),Single-Speed Reduction Gearbox
+4,Microlino Lite,Microcar,530,45,40,12,Master Real-World Database,FWD (Single Motor),Single-Speed Reduction Gearbox
+5,Changan Lumin,Microcar,840,101,83,15,Master Real-World Database,FWD (Single Motor),Single-Speed Reduction Gearbox
+6,Chery QQ Ice Cream,Microcar,740,100,85,14,Master Real-World Database,FWD (Single Motor),Single-Speed Reduction Gearbox
+7,Ligier Myli,Microcar,425,45,25,8,Master Real-World Database,FWD (Single Motor),Single-Speed Reduction Gearbox
+8,Aixam Mega e-City,Microcar,425,45,24,8,Master Real-World Database,FWD (Single Motor),Single-Speed Reduction Gearbox
+9,Elaris Pio,Microcar,550,70,45,10,Master Real-World Database,FWD (Single Motor),Single-Speed Reduction Gearbox
+10,Arcimoto FUV,Microcar,600,120,110,15,Master Real-World Database,FWD (Single Motor),Single-Speed Reduction Gearbox
+11,Wuling Hongguang Mini EV,City Car,700,100,85,15,Master Real-World Database,FWD (Single Motor),Single-Speed Reduction Gearbox
+12,MG Comet EV,City Car,815,100,110,15,Master Real-World Database,FWD (Single Motor),Single-Speed Reduction Gearbox
+13,Dacia Spring,City Car,970,125,125,20,Master Real-World Database,FWD (Single Motor),Single-Speed Reduction Gearbox
+14,Wuling Bingo,City Car,1020,100,150,18,Master Real-World Database,FWD (Single Motor),Single-Speed Reduction Gearbox
+15,Tata Tiago EV,Hatchback,1150,120,114,18,Master Real-World Database,FWD (Single Motor),Single-Speed Reduction Gearbox
+16,Fiat 500e,Hatchback,1365,150,220,22,Master Real-World Database,FWD (Single Motor),Single-Speed Reduction Gearbox
+17,Mini Cooper SE,Hatchback,1395,150,270,24,Master Real-World Database,FWD (Single Motor),Single-Speed Reduction Gearbox
+18,Peugeot e-208,Hatchback,1455,150,260,25,Master Real-World Database,FWD (Single Motor),Single-Speed Reduction Gearbox
+19,Renault Zoe,Hatchback,1502,140,225,22,Master Real-World Database,FWD (Single Motor),Single-Speed Reduction Gearbox
+20,Nissan Leaf,Hatchback,1580,157,320,25,Master Real-World Database,FWD (Single Motor),Single-Speed Reduction Gearbox
+21,Chevrolet Bolt EV,Hatchback,1616,150,360,26,Master Real-World Database,FWD (Single Motor),Single-Speed Reduction Gearbox
+22,MG4 EV,Hatchback,1655,160,250,25,Master Real-World Database,RWD (Single Motor),Single-Speed Reduction Gearbox
+23,BYD Dolphin,Hatchback,1405,160,290,24,Master Real-World Database,FWD (Single Motor),Single-Speed Reduction Gearbox
+24,Cupra Born,Hatchback,1736,160,310,26,Master Real-World Database,RWD (Single Motor),Single-Speed Reduction Gearbox
+25,VW ID.3,Hatchback,1728,160,310,26,Master Real-World Database,RWD (Single Motor),Single-Speed Reduction Gearbox
+26,Ora Good Cat,Hatchback,1555,152,210,22,Master Real-World Database,FWD (Single Motor),Single-Speed Reduction Gearbox
+27,Renault Megane E-Tech,Hatchback,1624,160,300,25,Master Real-World Database,FWD (Single Motor),Single-Speed Reduction Gearbox
+28,Peugeot e-308,Hatchback,1633,170,270,24,Master Real-World Database,FWD (Single Motor),Single-Speed Reduction Gearbox
+29,Vauxhall Astra Electric,Hatchback,1679,170,270,24,Master Real-World Database,FWD (Single Motor),Single-Speed Reduction Gearbox
+30,Honda e,City Car,1514,145,315,20,Master Real-World Database,RWD (Single Motor),Single-Speed Reduction Gearbox
+31,Citroen e-C3,City Car,1351,135,120,20,Master Real-World Database,FWD (Single Motor),Single-Speed Reduction Gearbox
+32,Renault Twingo E-Tech,City Car,1112,135,160,20,Master Real-World Database,RWD (Single Motor),Single-Speed Reduction Gearbox
+33,Smart ForTwo EQ,City Car,1100,130,160,18,Master Real-World Database,RWD (Single Motor),Single-Speed Reduction Gearbox
+34,Toyota bZ3,Sedan,1710,160,303,25,Master Real-World Database,RWD (Single Motor),Single-Speed Reduction Gearbox
+35,Tata Nexon EV,Compact SUV,1405,150,215,25,Master Real-World Database,FWD (Single Motor),Single-Speed Reduction Gearbox
+36,Hyundai Kona Electric,Compact SUV,1685,167,255,26,Master Real-World Database,FWD (Single Motor),Single-Speed Reduction Gearbox
+37,Kia Niro EV,Compact SUV,1737,167,255,26,Master Real-World Database,FWD (Single Motor),Single-Speed Reduction Gearbox
+38,Mahindra XUV400,Compact SUV,1235,150,310,24,Master Real-World Database,FWD (Single Motor),Single-Speed Reduction Gearbox
+39,Volvo EX30 Twin Motor,Compact SUV,1830,180,543,33,Master Real-World Database,AWD (Dual Motor),Single-Speed Reduction Gearbox
+40,Smart #1 Brabus,Compact SUV,1900,180,343,30,Master Real-World Database,AWD (Dual Motor),Single-Speed Reduction Gearbox
+41,BYD Atto 3,Compact SUV,1750,160,310,25,Master Real-World Database,FWD (Single Motor),Single-Speed Reduction Gearbox
+42,Mercedes-Benz EQB 350,Compact SUV,2175,160,520,28,Master Real-World Database,AWD (Dual Motor),Single-Speed Reduction Gearbox
+43,Audi Q4 e-tron,SUV,2135,180,460,30,Master Real-World Database,AWD (Dual Motor),Single-Speed Reduction Gearbox
+44,VW ID.4,SUV,2126,160,310,28,Master Real-World Database,RWD (Single Motor),Single-Speed Reduction Gearbox
+45,Skoda Enyaq iV,SUV,2170,180,545,30,Master Real-World Database,AWD (Dual Motor),Single-Speed Reduction Gearbox
+46,Ford Mustang Mach-E,Crossover,2137,180,430,28,Master Real-World Database,RWD (Single Motor),Single-Speed Reduction Gearbox
+47,Toyota bZ4X AWD,SUV,2005,160,337,28,Master Real-World Database,AWD (Dual Motor),Single-Speed Reduction Gearbox
+48,Subaru Solterra AWD,Compact SUV,2020,160,337,28,Master Real-World Database,AWD (Dual Motor),Single-Speed Reduction Gearbox
+49,Nissan Ariya e-4ORCE,Crossover,2225,200,600,30,Master Real-World Database,AWD (Dual Motor),Single-Speed Reduction Gearbox
+50,Lexus RZ 450e,SUV,2110,160,435,30,Master Real-World Database,AWD (Dual Motor),Single-Speed Reduction Gearbox
+51,Genesis GV70 Electrified,Compact SUV,2315,235,700,34,Master Real-World Database,AWD (Dual Motor),Single-Speed Reduction Gearbox
+52,Mini Countryman SE,Compact SUV,1730,170,330,28,Master Real-World Database,AWD (Dual Motor),Single-Speed Reduction Gearbox
+53,Tata Punch EV,Compact SUV,1350,140,190,22,Master Real-World Database,FWD (Single Motor),Single-Speed Reduction Gearbox
+54,Mahindra XUV700 EV (Be.05),SUV,1950,200,560,32,Master Real-World Database,AWD (Dual Motor),Single-Speed Reduction Gearbox
+55,Hyundai Ioniq 5 AWD,SUV,2100,185,605,35,Master Real-World Database,AWD (Dual Motor),Single-Speed Reduction Gearbox
+56,Kia EV6 RWD,SUV,1985,185,350,30,Master Real-World Database,RWD (Single Motor),Single-Speed Reduction Gearbox
+57,Tesla Model Y Long Range,SUV,1979,217,527,32,Master Real-World Database,AWD (Dual Motor),Single-Speed Reduction Gearbox
+58,Tesla Model Y Performance,SUV,1979,250,660,34,Master Real-World Database,AWD (Dual Motor),Single-Speed Reduction Gearbox
+59,BMW iX3,SUV,2260,180,400,30,Master Real-World Database,RWD (Single Motor),Single-Speed Reduction Gearbox
+60,Jaguar I-Pace,SUV,2208,200,696,35,Master Real-World Database,AWD (Dual Motor),Single-Speed Reduction Gearbox
+61,Mercedes-Benz EQC,SUV,2495,180,760,32,Master Real-World Database,AWD (Dual Motor),Single-Speed Reduction Gearbox
+62,Audi Q8 e-tron,SUV,2585,200,664,38,Master Real-World Database,AWD (Dual Motor),Single-Speed Reduction Gearbox
+63,Volvo EX90,SUV,2811,180,910,40,Master Real-World Database,AWD (Dual Motor),Single-Speed Reduction Gearbox
+64,Polestar 3,SUV,2584,210,840,36,Master Real-World Database,AWD (Dual Motor),Single-Speed Reduction Gearbox
+65,Nio ES6,SUV,2345,200,700,35,Master Real-World Database,AWD (Dual Motor),Single-Speed Reduction Gearbox
+66,Nio ES8,SUV,2560,200,850,38,Master Real-World Database,AWD (Dual Motor),Single-Speed Reduction Gearbox
+67,Xpeng G9 Performance,SUV,2340,200,717,35,Master Real-World Database,AWD (Dual Motor),Single-Speed Reduction Gearbox
+68,Lotus Eletre S,SUV,2490,258,710,38,Master Real-World Database,AWD (Dual Motor),Single-Speed Reduction Gearbox
+69,Cadillac Lyriq AWD,SUV,2545,190,610,30,Master Real-World Database,AWD (Dual Motor),Single-Speed Reduction Gearbox
+70,Chevrolet Blazer EV SS,Performance,2600,210,878,35,Master Real-World Database,AWD (Dual Motor),Single-Speed Reduction Gearbox
+71,GMC Hummer EV SUV,SUV,4110,170,1559,50,Master Real-World Database,AWD (Tri-Motor),Single-Speed Reduction Gearbox
+72,Rivian R1S Dual-Motor,SUV,3150,180,820,45,Master Real-World Database,AWD (Dual Motor),Single-Speed Reduction Gearbox
+73,Yangwang U8,Luxury SUV,3460,200,1280,50,Master Real-World Database,AWD (Quad-In-Wheel Motor),Direct In-Speed Hub Reduction
+74,Porsche Macan Electric,SUV,2420,220,1130,38,Master Real-World Database,AWD (Dual Motor),Single-Speed Reduction Gearbox
+75,BMW iX xDrive50,SUV,2510,200,765,36,Master Real-World Database,AWD (Dual Motor),Single-Speed Reduction Gearbox
+76,Mercedes-Benz EQS SUV,SUV,2810,210,858,38,Master Real-World Database,AWD (Dual Motor),Single-Speed Reduction Gearbox
+77,Kia EV9,SUV,2640,200,700,35,Master Real-World Database,AWD (Dual Motor),Single-Speed Reduction Gearbox
+78,Hyundai Ioniq 9,SUV,2700,190,700,35,Master Real-World Database,AWD (Dual Motor),Single-Speed Reduction Gearbox
+79,Tesla Model 3 RWD,Sedan,1765,225,420,28,Master Real-World Database,RWD (Single Motor),Single-Speed Reduction Gearbox
+80,Tesla Model 3 Long Range,Sedan,1844,233,510,30,Master Real-World Database,AWD (Dual Motor),Single-Speed Reduction Gearbox
+81,Tesla Model S Plaid,Sedan,2162,322,1420,40,Master Real-World Database,AWD (Tri-Motor),Single-Speed High-RPM Reduction Gearbox
+82,BMW i4 eDrive40,Sedan,2050,190,430,28,Master Real-World Database,RWD (Single Motor),Single-Speed Reduction Gearbox
+83,BMW i4 M50,Performance,2290,225,795,33,Master Real-World Database,AWD (Dual Motor),Single-Speed Reduction Gearbox
+84,BMW i7 xDrive60,Sedan,2640,240,745,32,Master Real-World Database,AWD (Dual Motor),Single-Speed Reduction Gearbox
+85,Mercedes-Benz EQE 350+,Sedan,2355,210,565,30,Master Real-World Database,RWD (Single Motor),Single-Speed Reduction Gearbox
+86,Mercedes-Benz EQS 53 AMG,Sedan,2655,250,950,32,Master Real-World Database,AWD (Dual Motor),Single-Speed AMG Performance Gearbox
+87,Audi e-tron GT,Performance,2350,245,830,38,Master Real-World Database,AWD (Dual Motor),2-Speed Automatic
+88,Porsche Taycan 4S,Performance,2220,250,650,38,Master Real-World Database,AWD (Dual Motor),2-Speed Automatic
+89,Porsche Taycan Turbo S,Performance,2295,260,1050,40,Master Real-World Database,AWD (Dual Motor),2-Speed Automatic
+90,Lucid Air Grand Touring,Sedan,2360,270,1200,40,Master Real-World Database,AWD (Dual Motor),Single-Speed Reduction Gearbox
+91,Lucid Air Sapphire,Performance,2364,330,1940,45,Master Real-World Database,AWD (Tri-Motor),Single-Speed High-RPM Reduction Gearbox
+92,BYD Seal RWD,Sedan,2055,180,360,28,Master Real-World Database,RWD (Single Motor),Single-Speed Reduction Gearbox
+93,BYD Seal Performance,Sedan,2185,180,670,32,Master Real-World Database,AWD (Dual Motor),Single-Speed Reduction Gearbox
+94,BYD Han EV,Sedan,2000,185,350,25,Master Real-World Database,AWD (Dual Motor),Single-Speed Reduction Gearbox
+95,Xpeng P7 Performance,Sedan,2025,200,655,32,Master Real-World Database,AWD (Dual Motor),Single-Speed Reduction Gearbox
+96,Nio ET7,Sedan,2379,200,850,35,Master Real-World Database,AWD (Dual Motor),Single-Speed Reduction Gearbox
+97,Nio ET5,Sedan,2155,200,700,34,Master Real-World Database,AWD (Dual Motor),Single-Speed Reduction Gearbox
+98,Hyundai Ioniq 6,Sedan,1910,185,350,28,Master Real-World Database,RWD (Single Motor),Single-Speed Reduction Gearbox
+99,Polestar 2 Single Motor,Sedan,2011,205,330,28,Master Real-World Database,RWD (Single Motor),Single-Speed Reduction Gearbox
+100,Volkswagen ID.7 Pro,Sedan,2172,180,545,28,Master Real-World Database,RWD (Single Motor),Single-Speed Reduction Gearbox
+101,Genesis G80 Electrified,Sedan,2265,225,700,32,Master Real-World Database,AWD (Dual Motor),Single-Speed Reduction Gearbox
+102,Rimac Nevera,Hypercar,2150,412,2360,45,Master Real-World Database,AWD (Quad-Motor),4-Speed Independent Gearboxes
+103,Lotus Evija,Hypercar,1680,320,1700,40,Master Real-World Database,AWD (Quad-Motor),Single-Speed Multi-Motor Reduction
+104,BYD Yangwang U9,Hypercar,2475,309,1680,45,Master Real-World Database,AWD (Quad-Motor),2-Speed Dual Transmission per Axle
+105,Pininfarina Battista,Hypercar,2060,350,2340,45,Master Real-World Database,AWD (Quad-Motor),Single-Speed Multi-Motor Reduction
+106,Aspark Owl,Hypercar,1900,413,2000,45,Master Real-World Database,AWD (Quad-Motor),Single-Speed Multi-Motor Reduction
+107,Audi e-tron GT RS,Performance,2345,250,1130,40,Master Real-World Database,AWD (Dual Motor),2-Speed Automatic
+108,Hyundai Ioniq 5 N,Performance,2230,260,740,35,Master Real-World Database,AWD (Dual Motor),Simulated N e-Shift Virtual Multi-Speed Gearbox
+109,Zeekr 001 FR,Performance,2525,280,1280,42,Master Real-World Database,AWD (Quad-Motor),Single-Speed Reduction Gearbox
+110,MG4 XPower,Performance,1800,200,600,32,Master Real-World Database,AWD (Dual Motor),Single-Speed Reduction Gearbox
+111,Tesla Model X Plaid,SUV,2455,262,1420,40,Master Real-World Database,AWD (Tri-Motor),Single-Speed High-RPM Reduction Gearbox
+112,Audi e-tron S,Performance SUV,2695,210,973,35,Master Real-World Database,AWD (Tri-Motor),Single-Speed Reduction Gearbox
+113,Ford F-150 Lightning,Pickup Truck,2950,170,1050,42,Master Real-World Database,AWD (Dual Motor),Single-Speed Reduction Gearbox
+114,Tesla Cybertruck,Pickup Truck,2995,180,930,42,Master Real-World Database,AWD (Dual Motor),Single-Speed Reduction Gearbox
+115,Tesla Cybertruck Cyberbeast,Pickup Truck,3104,209,1396,45,Master Real-World Database,AWD (Tri-Motor),Single-Speed Reduction Gearbox
+116,Rivian R1T,Pickup Truck,3141,180,1231,45,Master Real-World Database,AWD (Dual Motor),Single-Speed Reduction Gearbox
+117,Rivian R1T Quad-Motor,Pickup Truck,3242,200,1410,48,Master Real-World Database,AWD (Quad-Motor),Single-Speed Reduction Gearbox
+118,Chevrolet Silverado EV,Pickup Truck,3820,180,1064,45,Master Real-World Database,AWD (Dual Motor),Single-Speed Reduction Gearbox
+119,GMC Hummer EV,Pickup Truck,4110,170,1559,50,Master Real-World Database,AWD (Quad/Tri-Motor),Single-Speed Reduction Gearbox
+120,RAM 1500 REV,Pickup Truck,3700,180,841,42,Master Real-World Database,AWD (Dual Motor),Single-Speed Reduction Gearbox
+121,Maxus T90 EV,Pickup Truck,2300,120,310,25,Master Real-World Database,RWD (Single Motor),Single-Speed Reduction Gearbox
+122,Renault Master Z.E.,Commercial Van,2380,100,225,20,Master Real-World Database,FWD (Single Motor),Single-Speed Reduction Gearbox
+123,Mercedes-Benz eSprinter,Commercial Van,2690,120,400,25,Master Real-World Database,RWD (Single Motor),Single-Speed Reduction Gearbox
+124,Ford E-Transit,Commercial Van,2530,120,430,25,Master Real-World Database,RWD (Single Motor),Single-Speed Reduction Gearbox
+125,Maxus e Deliver 9,Commercial Van,2650,100,310,22,Master Real-World Database,FWD (Single Motor),Single-Speed Reduction Gearbox
+126,Volkswagen ID. Buzz,Commercial Van,2471,145,310,25,Master Real-World Database,RWD (Single Motor),Single-Speed Reduction Gearbox
+127,Fiat E-Ducato,Commercial Van,2550,100,280,22,Master Real-World Database,FWD (Single Motor),Single-Speed Reduction Gearbox
+128,Peugeot e-Expert,Commercial Van,1950,130,260,22,Master Real-World Database,FWD (Single Motor),Single-Speed Reduction Gearbox
+129,Nissan Townstar EV,Commercial Van,1650,135,245,20,Master Real-World Database,FWD (Single Motor),Single-Speed Reduction Gearbox
+130,Volvo FH Electric,Heavy Tractor,16000,90,2400,35,Master Real-World Database,AWD (Dual-Axle Multi-Motor),Automated Manual (AMT) / Multi-Speed
+131,Freightliner eCascadia,Heavy Tractor,15800,105,2500,35,Master Real-World Database,AWD (Dual-Axle Multi-Motor),Automated Manual (AMT) / Multi-Speed
+132,Tesla Semi,Heavy Tractor,9070,120,1800,40,Master Real-World Database,AWD (Tri-Motor),Multi-Speed Direct Drive
+133,Scania 25P Electric,Heavy Tractor,14500,90,1300,30,Master Real-World Database,RWD (Single Motor),Automated Manual (AMT) / Multi-Speed
+134,Daf Electric LF,Heavy Tractor,11000,90,1200,28,Master Real-World Database,RWD (Single Motor),Single-Speed Reduction Gearbox
+135,Nikola Tre BEV,Heavy Tractor,18140,120,1800,35,Master Real-World Database,AWD (Dual-Axle Multi-Motor),Multi-Speed Direct Drive
+136,BYD T867,Heavy Tractor,15000,85,1500,30,Master Real-World Database,AWD (Dual Motor),Single-Speed Reduction Gearbox
+137,Lucid Air Pure,Sedan,2050,200,550,30,Master Real-World Database,RWD (Single Motor),Single-Speed Reduction Gearbox
+138,Lucid Air Touring,Sedan,2200,220,880,35,Master Real-World Database,AWD (Dual Motor),Single-Speed Reduction Gearbox
+139,Polestar 4,Crossover,2230,200,686,34,Master Real-World Database,AWD (Dual Motor),Single-Speed Reduction Gearbox
+140,Zeekr 001,Sedan,2350,200,686,35,Master Real-World Database,AWD (Dual Motor),Single-Speed Reduction Gearbox
+141,Zeekr X,Compact SUV,1945,190,543,32,Master Real-World Database,AWD (Dual Motor),Single-Speed Reduction Gearbox
+142,XPeng G6,SUV,2095,200,660,33,Master Real-World Database,AWD (Dual Motor),Single-Speed Reduction Gearbox
+143,XPeng P5,Sedan,1695,170,310,25,Master Real-World Database,FWD (Single Motor),Single-Speed Reduction Gearbox
+144,Nio ET5 Touring,Hatchback,2225,200,700,34,Master Real-World Database,AWD (Dual Motor),Single-Speed Reduction Gearbox
+145,Nio EL6,SUV,2345,200,700,35,Master Real-World Database,AWD (Dual Motor),Single-Speed Reduction Gearbox
+146,Nio EL7,SUV,2460,200,850,36,Master Real-World Database,AWD (Dual Motor),Single-Speed Reduction Gearbox
+147,Aion V,SUV,1750,160,300,25,Master Real-World Database,FWD (Single Motor),Single-Speed Reduction Gearbox
+148,Aion S Plus,Sedan,1620,160,225,22,Master Real-World Database,FWD (Single Motor),Single-Speed Reduction Gearbox
+149,Changan Deepal SL03,Sedan,1750,170,320,25,Master Real-World Database,RWD (Single Motor),Single-Speed Reduction Gearbox
+150,Changan Deepal S7,SUV,1950,180,320,28,Master Real-World Database,RWD (Single Motor),Single-Speed Reduction Gearbox
+151,Chery eQ7,SUV,1850,180,285,26,Master Real-World Database,RWD (Single Motor),Single-Speed Reduction Gearbox
+152,Geely Geometry C,Hatchback,1585,150,310,24,Master Real-World Database,FWD (Single Motor),Single-Speed Reduction Gearbox
+153,BAIC Arcfox Alpha-S,Sedan,2235,180,720,33,Master Real-World Database,AWD (Dual Motor),Single-Speed Reduction Gearbox
+154,BAIC Arcfox Alpha-T,SUV,2310,180,720,33,Master Real-World Database,AWD (Dual Motor),Single-Speed Reduction Gearbox
+155,Hongqi E-HS9,SUV,2700,200,670,35,Master Real-World Database,AWD (Dual Motor),Single-Speed Reduction Gearbox
+156,Roewe Marvel R,SUV,1810,200,665,30,Master Real-World Database,AWD (Dual Motor),Single-Speed Reduction Gearbox
+157,MG Marvel R,SUV,1810,200,665,30,Master Real-World Database,AWD (Dual Motor),Single-Speed Reduction Gearbox
+158,Omoda E5,Compact SUV,1710,172,340,26,Master Real-World Database,FWD (Single Motor),Single-Speed Reduction Gearbox
+159,Jaecoo J6 EV,Compact SUV,1800,160,280,30,Master Real-World Database,AWD (Dual Motor),Single-Speed Reduction Gearbox
+160,BYD Song Plus EV,SUV,1870,175,310,26,Master Real-World Database,FWD (Single Motor),Single-Speed Reduction Gearbox
+161,BYD Tang EV,SUV,2485,180,680,35,Master Real-World Database,AWD (Dual Motor),Single-Speed Reduction Gearbox
+162,BYD Yuan Plus,Compact SUV,1750,160,310,25,Master Real-World Database,FWD (Single Motor),Single-Speed Reduction Gearbox
+163,BYD Destroyer 07,Sedan,1850,185,310,25,Master Real-World Database,FWD (Single Motor),Single-Speed Reduction Gearbox
+164,Skywell ET5,SUV,1920,150,320,25,Master Real-World Database,FWD (Single Motor),Single-Speed Reduction Gearbox
+165,HiPhi X,SUV,2580,200,820,36,Master Real-World Database,AWD (Dual Motor),Single-Speed Reduction Gearbox
+166,HiPhi Z,Sedan,2539,200,810,36,Master Real-World Database,AWD (Dual Motor),Single-Speed Reduction Gearbox
+167,HiPhi Y,SUV,2315,190,410,30,Master Real-World Database,RWD (Single Motor),Single-Speed Reduction Gearbox
+168,JAC E-JS4,SUV,1680,150,340,24,Master Real-World Database,FWD (Single Motor),Single-Speed Reduction Gearbox
+169,Seres 5,SUV,2360,190,675,32,Master Real-World Database,AWD (Dual Motor),Single-Speed Reduction Gearbox
+170,Voyah Free,SUV,2340,200,720,35,Master Real-World Database,AWD (Dual Motor),Single-Speed Reduction Gearbox
+171,Voyah Passion,Sedan,2266,210,730,33,Master Real-World Database,AWD (Dual Motor),Single-Speed Reduction Gearbox
+172,Toyota bZ3C,Crossover,1800,160,310,26,Master Real-World Database,FWD (Single Motor),Single-Speed Reduction Gearbox
+173,Mazda EZ-6,Sedan,1950,170,320,27,Master Real-World Database,RWD (Single Motor),Single-Speed Reduction Gearbox
+174,Honda Ye P7,SUV,2150,180,450,30,Master Real-World Database,AWD (Dual Motor),Single-Speed Reduction Gearbox
+175,Nissan N7,Sedan,1850,170,310,26,Master Real-World Database,FWD (Single Motor),Single-Speed Reduction Gearbox
