@@ -30,6 +30,15 @@ st.set_page_config(
 # Inject Apple Lite Theme CSS
 st.markdown(get_apple_css(), unsafe_allow_html=True)
 
+def render_apple_chart(fig):
+    """Renders Plotly chart with responsive container and mobile touch support."""
+    apply_apple_plotly_theme(fig)
+    st.plotly_chart(
+        fig,
+        use_container_width=True,
+        config={"responsive": True, "displayModeBar": False}
+    )
+
 # Cache Resources
 @st.cache_resource
 def load_dataset():
@@ -122,7 +131,7 @@ st.markdown(f"""
             Virtual MATLAB-grade powertrain simulation & autonomous GenAI parameter optimization
         </div>
     </div>
-    <div style="display:flex; gap:10px;">
+    <div class="apple-header-badges">
         <span class="apple-badge badge-green">● Simulation Engine Online</span>
         <span class="apple-badge badge-purple">AI Agent: Groq Ultra-Fast</span>
     </div>
@@ -366,8 +375,7 @@ with tab_motor:
         fig_tp.update_yaxes(title_text="Torque (N·m)", title_font=dict(color=APPLE_BLUE), secondary_y=False)
         fig_tp.update_yaxes(title_text="Power (kW)", title_font=dict(color=APPLE_ORANGE), secondary_y=True)
 
-        apply_apple_plotly_theme(fig_tp)
-        st.plotly_chart(fig_tp, use_container_width=True)
+        render_apple_chart(fig_tp)
 
     # 2. Efficiency Map (3D Surface & Contour)
     with fig_col2:
@@ -420,8 +428,7 @@ with tab_motor:
                 height=420
             )
 
-        apply_apple_plotly_theme(fig_eff)
-        st.plotly_chart(fig_eff, use_container_width=True)
+        render_apple_chart(fig_eff)
 
     # Performance Calibration Table
     st.markdown("#### 📋 Motor Parameters & Ratings")
@@ -468,8 +475,7 @@ with tab_scenarios:
         fig_sprint.add_trace(go.Scatter(x=sprint_res["time_s"], y=sprint_res["motor_power_kw"], name="Power (kW)", line=dict(color=APPLE_ORANGE, width=2.5)), row=2, col=1)
 
         fig_sprint.update_layout(height=480, hovermode="x unified")
-        apply_apple_plotly_theme(fig_sprint)
-        st.plotly_chart(fig_sprint, use_container_width=True)
+        render_apple_chart(fig_sprint)
 
     elif test_choice == "Road Gradient & Hill-Start Capability":
         st.markdown("#### ⛰️ Gradeability & Incline Power Reserve")
@@ -491,8 +497,7 @@ with tab_scenarios:
             yaxis_title="Top Speed on Grade (km/h)",
             height=400
         )
-        apply_apple_plotly_theme(fig_grade)
-        st.plotly_chart(fig_grade, use_container_width=True)
+        render_apple_chart(fig_grade)
 
     elif test_choice == "Energy Consumption & Range":
         st.markdown("#### ⚡ Cruising Efficiency & Real-World Range")
@@ -517,8 +522,7 @@ with tab_scenarios:
                 yaxis_title="Consumption (kWh / 100 km)",
                 height=380
             )
-            apply_apple_plotly_theme(fig_kwh)
-            st.plotly_chart(fig_kwh, use_container_width=True)
+            render_apple_chart(fig_kwh)
 
         with col_c2:
             fig_rng = go.Figure()
@@ -536,8 +540,7 @@ with tab_scenarios:
                 yaxis_title="Range (km)",
                 height=380
             )
-            apply_apple_plotly_theme(fig_rng)
-            st.plotly_chart(fig_rng, use_container_width=True)
+            render_apple_chart(fig_rng)
 
     elif test_choice == "Gear Ratio Sweep (Pareto Optimization)":
         st.markdown("#### ⚙️ Single-Speed Reduction Ratio Sensitivity Sweep")
@@ -554,8 +557,7 @@ with tab_scenarios:
         fig_sw.update_layout(title="<b>Gear Ratio Pareto Frontier: Acceleration vs Highway Energy</b>", xaxis_title="Gear Ratio (:1)", height=420)
         fig_sw.update_yaxes(title_text="0-100 km/h Time (s)", secondary_y=False)
         fig_sw.update_yaxes(title_text="Energy (kWh/100km)", secondary_y=True)
-        apply_apple_plotly_theme(fig_sw)
-        st.plotly_chart(fig_sw, use_container_width=True)
+        render_apple_chart(fig_sw)
 
 # ==============================================================================
 # TAB 4: AI AUTONOMOUS OPTIMIZER
@@ -612,8 +614,7 @@ with tab_ai_optimizer:
                 title="<b>Multivariate Architectural Trade-off Benchmark</b>",
                 height=400
             )
-            apply_apple_plotly_theme(fig_cmp)
-            st.plotly_chart(fig_cmp, use_container_width=True)
+            render_apple_chart(fig_cmp)
 
             # Groq AI Expert Engineering Verdict
             st.markdown("#### 💡 AI Chief Engineer's Verdict & Trade-off Report")
@@ -716,8 +717,7 @@ with tab_benchmarking:
         yaxis_title="Peak Torque (Nm)",
         height=450
     )
-    apply_apple_plotly_theme(fig_scatter)
-    st.plotly_chart(fig_scatter, use_container_width=True)
+    render_apple_chart(fig_scatter)
 
     # Download Report Button
     st.markdown("#### 📥 Export Simulation Data")
