@@ -227,6 +227,9 @@ Please provide an expert engineering evaluation:
         Interactive Powertrain Co-Pilot:
         Allows the user to ask any engineering question or request configuration adjustments.
         """
+        if not self.client:
+            return "[Groq API Key Required]: Please configure your GROQ_API_KEY in .env or Streamlit Cloud Secrets."
+
         system_prompt = f"""
 You are the EV Digital Twin Powertrain Co-Pilot.
 You have full access to the live digital twin simulation state:
@@ -237,9 +240,7 @@ Guidelines:
 - Explain physical trade-offs (e.g. higher gear ratio increases wheel torque and hill climb ability, but reduces top speed and increases motor RPM / iron losses at cruising speeds).
 - Reference real-world EV benchmarks (e.g., Porsche Taycan's 2-speed gearbox, Tesla Model 3's high-speed single reduction, Lucid Air's high-RPM miniaturized motor) when relevant.
 - Keep the tone sleek, professional, and helpful (Apple-style engineering craft).
-        if not self.client:
-            return "[Groq API Key Required]: Please configure your GROQ_API_KEY in .env or Streamlit Cloud Secrets."
-
+"""
         messages = [{"role": "system", "content": system_prompt}] + conversation_history
         try:
             response = self.client.chat.completions.create(
